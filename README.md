@@ -1,0 +1,3 @@
+- Install the dependencies (npm install)
+- create a .env.development file and refer to .env.example to setup .env.development file
+- Start the dev server -> npm run dev
